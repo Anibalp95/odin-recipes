@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    letter-spacing: 4px;
+    font-weight: 900;
+}
+
+.recipe-title {
+    color: rgb(105, 105, 40);
+    font-weight: 500;
+}
+
+.recipe-link {
+    font-weight: bold;
+}
