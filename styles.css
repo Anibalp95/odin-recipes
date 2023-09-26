@@ -15,3 +15,15 @@ body {
 .recipe-link {
     font-weight: bold;
 }
+
+.page-container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.img-container {
+    display: block;
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
+}
